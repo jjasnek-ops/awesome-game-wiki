@@ -1,6 +1,6 @@
 # Awesome Game Wiki
 
-A curated, English-language collection of 126 game wiki, database, guide, and community knowledge websites. This document is written in an "awesome list" style, but with fuller descriptions so each entry explains what the site is best used for.
+A curated, English-language collection of 127 game wiki, database, guide, and community knowledge websites. This document is written in an "awesome list" style, but with fuller descriptions so each entry explains what the site is best used for.
 
 **Last reviewed:** 2026-05-14  
 
@@ -1205,6 +1205,16 @@ A curated, English-language collection of 126 game wiki, database, guide, and co
 
 
 **Best for:** Characters, weapon grids, raids, events, classes, summons, and progression planning.
+
+
+## Psychological horror and cooking
+
+### 127. [Cucina Stellata Guide](https://www.cucinastellataguide.wiki/)
+
+**Description:** An independent, unofficial guide to Cucina Stellata, with beginner guidance, walkthroughs, cooking references, and ending explanations. The site separates guide topics and flags story spoilers. It is a guide hub rather than a freely editable community wiki and is not affiliated with the game's developer or publisher.
+
+
+**Best for:** Getting started, cooking references, story progression, and spoiler-marked ending explanations.
 
 
 ---
