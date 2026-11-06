@@ -1,6 +1,6 @@
 # Awesome Game Wiki
 
-A curated, English-language collection of 126 game wiki, database, guide, and community knowledge websites. This document is written in an "awesome list" style, but with fuller descriptions so each entry explains what the site is best used for.
+A curated, English-language collection of 127 game wiki, database, guide, and community knowledge websites. This document is written in an "awesome list" style, but with fuller descriptions so each entry explains what the site is best used for.
 
 **Last reviewed:** 2026-05-14  
 
@@ -1205,6 +1205,15 @@ A curated, English-language collection of 126 game wiki, database, guide, and co
 
 
 **Best for:** Characters, weapon grids, raids, events, classes, summons, and progression planning.
+
+
+## Roblox player guides
+
+### 127. [Morioh High Wiki](https://moriohhighguide.wiki/)
+
+**Description:** An independent, unofficial player guide for the Morioh High Roblox experience. It collects beginner information, PC controls, Stand awakening guidance, and source-dated code reports. Code redemption is explicitly marked untested, and the site distinguishes sourced game information from community reports. This is a guide hub rather than a publicly editable wiki, and it is not affiliated with the game developer, Roblox, or the JoJo rights holders.
+
+**Best for:** Finding the game, checking controls and early progression, and reviewing dated code sources.
 
 
 ---
